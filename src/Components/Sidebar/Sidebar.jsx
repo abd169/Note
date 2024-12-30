@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { useRecoilState } from 'recoil'
 import { noteState } from '../Atom/Atom'
 import { Link } from 'react-router-dom'
