@@ -2,7 +2,7 @@
   "name": "noteapp",
   "private": true,
   "version": "0.0.0",
-  "gh-pages":"https://abd169.github.io/noteapp",
+  "gh-pages": "https://abd169.github.io/noteapp",
   "type": "module",
   "scripts": {
     "dev": "vite",
